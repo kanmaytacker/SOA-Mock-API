@@ -1,0 +1,124 @@
+[  
+   {  
+      "DoctorID":"001",
+      "name":"Gregory House",
+      "gender":"Male",
+      "DOB":"13/10/1967",
+      "Specialization":"Diagnostics",
+      "Summary":"It is never lupus.",
+      "Awards":"",
+      "Services":"Mockery",
+      "Registration":"Sherlock Holmes Fan Club",
+      "Organizations":"",
+      "Photos":"",
+      "Experience":"Princeton Plainsboro Teaching Hospital",
+      "Education":"John Hopkins University",
+      "Recommendations":"42",
+      "availability":{  
+         "monday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "tuesday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "wednesday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "thursday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "friday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "saturday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "sunday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         }
+      },
+      "practiceID":"001"
+   },
+   {  
+      "DoctorID":"002",
+      "name":"Hannibal Lecter",
+      "gender":"Male",
+      "DOB":"13/10/1967",
+      "Specialization":"Surgery",
+      "Summary":"Really dislikes masks. Loves meat.",
+      "Awards":"",
+      "Services":"Possesses great knowledge of beans and wine",
+      "Registration":"Canniabalism Appreciation Society",
+      "Organizations":"War Veterans Society",
+      "photos":"xyz",
+      "Experience":"Mortuaries",
+      "Education":"Vegan School",
+      "Recommendations":"42",
+      "Availability":{  
+         "monday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "tuesday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "wednesday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "thursday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "friday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "saturday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         },
+         "sunday":{  
+            "slot1_start":"08:00",
+            "slot1_end":"12:00",
+            "slot2_start":"18:00",
+            "slot2_end":"21:00"
+         }
+      },
+      "practiceID":"001"
+   }
+]

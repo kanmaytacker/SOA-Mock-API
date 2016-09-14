@@ -1,0 +1,46 @@
+[  
+   {  
+      "UserID":"001",
+      "name":"Shelock Holmes",
+      "DOB":"13/10/1667",
+      "Address":[  
+         {  
+            "House no.":"221B",
+            "Street":"Baker Street",
+            "Locality":"",
+            "City":"London",
+            "State":"",
+            "Country":"India",
+            "Pincode":"576001"
+         }
+      ],
+      "Contact":"9648318130",
+      "Gender":"F",
+      "BloodGroup":"A+",
+      "Photo":"xyz",
+      "Subscription":"Cocoa Enthusiasts Newsletter",
+      "Email":"xyz@xyz.com"
+   },
+   {  
+      "UserID":"002",
+      "name":"John Watson",
+      "DOB":"13/10/1666",
+      "Address":[  
+         {  
+            "House no.":"221B",
+            "Street":"Baker Street",
+            "Locality":"",
+            "City":"London",
+            "State":"",
+            "Country":"India",
+            "Pincode":"576001"
+         }
+      ],
+      "Contact":"9648318130",
+      "Gender":"M",
+      "BloodGroup":"B-",
+      "Photo":"xyz",
+      "Subscription":"PTSD Newsletter",
+      "Email":"xyz@xyz.com"
+   }
+]
