@@ -23,13 +23,12 @@ Endpoint - http://127.0.0.1:8888/api
 Response Format - JSON
 
 #Operations
-```
-GET /doctors - Lists all doctors
-GET /doctors/:id - Lists details of doctor with id
 
-GET /users - Lists all users
-GET /users/:id - Lists details of users with id
-```
+>GET /doctors - Lists all doctors
+>GET /doctors/:id - Lists details of doctor with id
+
+>GET /users - Lists all users
+>GET /users/:id - Lists details of users with id
 
 #Users -
 Endpoint - http://127.0.0.1:8889/api
@@ -37,5 +36,7 @@ Response Format - JSON
 
 #Operations
 
->GET /users - Lists all users
->GET /users/:id - Lists details of users with id
+```
+GET /users - Lists all users
+GET /users/:id - Lists details of users with id
+```
