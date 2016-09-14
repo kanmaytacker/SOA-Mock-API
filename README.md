@@ -10,8 +10,11 @@ Usage
 #Running the mock APIs
 
 In the root directory,
-> node Doctors/server_doctors_api.js 
-> node Users/server_users_api.js 
+``` 
+node Doctors/server_doctors_api.js 
+node Users/server_users_api.js 
+```
+    
 
 API Details
 -----------
