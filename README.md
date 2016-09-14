@@ -1,7 +1,7 @@
 SOA REST API
 =================
 
-A simple mock demo of Service Oriented Architecture to display two tables - Doctors and Users. The Doctors table is fetched by the doctors API and the user tables can be fectched by directly querying the Users API or via the Doctors API.
+A simple mock demo of Service Oriented Architecture to display two tables - Doctors and Users. The Doctors table is fetched by the doctors API and the user tables can be fetched by directly querying the Users API or via the Doctors API.
 
 Usage
 -----
